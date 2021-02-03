@@ -2,6 +2,8 @@
 
 I'm Kiran a Full Stack Web Developer and graduate student at Northeastern University,Boston. I Spend most of time coding projects and solve coding problems.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Kiran-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nimma_cg)](https://twitter.com/nimma_cg) [![Linkedin Badge](https://img.shields.io/badge/-Kiran-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-cg/) [![Mail Badge](https://img.shields.io/badge/-@Kiran-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/kiran_cg/) [![Mail Badge](https://img.shields.io/badge/-Kiran-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kirankumargangadharaiah@gmail.com)
