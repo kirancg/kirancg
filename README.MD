@@ -11,20 +11,22 @@ I'm Kiran a Full Stack Web Developer and graduate student at Northeastern Univer
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working in my final semester and preparing for coding interviews. Developing a big data indexing project using Java and ELKstack.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for fulltime software engineer roles
 - 📫 How to reach me: kirankumargangadharaiah@gmail.com.
 - 😄 Pronouns: He/Him, kiran_cg.
 - ⚡ Fun fact: I am a History buff,likes cycling and badminton
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>	<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-#### Bizness
+#### Profile
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1qZ3FwoLHVi4YYOby4Dod_hY_pA-UV6Q5/view?usp=sharing)
 - :email: kirankumargangadharaiah@gmail.com
 
