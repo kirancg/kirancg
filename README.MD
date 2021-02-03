@@ -11,7 +11,7 @@ I'm Kiran a Full Stack Web Developer and graduate student at Northeastern Univer
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working in my final semester and preparing for coding interviews. Developing a big data indexing project using Java and ELKstack.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for fulltime software engineer roles
 - 📫 How to reach me: kirankumargangadharaiah@gmail.com.
