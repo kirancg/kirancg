@@ -6,7 +6,7 @@ I'm a recent graduate from Northeastern University,Boston working as a Software 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Kiran-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nimma_cg)](https://twitter.com/nimma_cg) [![Linkedin Badge](https://img.shields.io/badge/-Kiran-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-cg/) [![Mail Badge](https://img.shields.io/badge/-@Kiran-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-Kiran-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-cg/) [![Mail Badge](https://img.shields.io/badge/-@Kiran-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
 
 
 
@@ -15,9 +15,7 @@ I'm a recent graduate from Northeastern University,Boston working as a Software 
 - 🔭 Working as a Software Engineer.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for fulltime software engineer roles
-- 📫 How to reach me: kirankumargangadharaiah@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a History buff,likes cycling and badminton
+- 📫 How to reach me:.
 
 
 
@@ -26,10 +24,6 @@ I'm a recent graduate from Northeastern University,Boston working as a Software 
 <!-- TODO: Make technologies links takes you to repositories -->
 
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Python" src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=black"/> <img alt="Spring Boot" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>	<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-#### Profile
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1qZ3FwoLHVi4YYOby4Dod_hY_pA-UV6Q5/view?usp=sharing)
-- :email: kirankumargangadharaiah@gmail.com
 
 
 #### Profile Visits
